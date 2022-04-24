@@ -1,0 +1,36 @@
+baseURL = 'https://lucas-gonzalez.github.io/silviaruizsanchez/'
+languageCode = 'es-es'
+title = 'Silvia Ruiz Sánchez'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+CopyRight = 'Silvia Ruiz Sánchez'
+resourceDir = "resources"
+
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 3
+enableRobotsTXT = true
+
+[languages]
+  [languages.es]
+    title = "Inicio"
+    weight = 1
+    contentDir = "content/es"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = ""
+  # "bg-" http://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-black"
+  recent_posts_number = 0
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/silviaruizsanchez/"
