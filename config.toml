@@ -1,4 +1,4 @@
-baseURL = 'https://lucas-gonzalez.github.io/silviaruizsanchez/'
+baseURL = 'https://www.silviaruizsanchez.com/'
 languageCode = 'es-es'
 title = 'Silvia Ruiz Sánchez'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
