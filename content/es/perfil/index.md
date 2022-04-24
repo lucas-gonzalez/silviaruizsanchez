@@ -1,12 +1,14 @@
 ---
 title: Sobre mí
-description: Formada, detallista, diligente
+description: Creativa, Perseverante, Perspicaz, Responsable
 menu:
   main:
     weight: 1
 ---
-Licenciada en Comunicación Audiovisual con un Postgrado en Gestión y Producción de Medios Audiovisuales, con diversa formación complementaria.
+Apasionada de la comunicación y el audiovisual, desde muy pequeña tuve claro que quería dedicarme a ello.
 
-Mi trayectoria profesional se encuadra en diversas áreas del sector de la comunicación como: asistente de producción, redactora, guionista, documentalista... Además tengo más de tres años de experiencia en comunicación institucional y cultural.
+La radio, la prensa escrita, el cine... están presentes en mi vida desde que tengo recuerdo; así como, referentes en la comunicación, la cultura y el audiovisual.
 
-Quienes me conocen y/o han trabajado conmigo destacan aspectos sobre mí como: la diligencia, la atención a los detalles, el esfuerzo y aprendizaje continuo.
+El amor por el aprendizaje es una de mis características destacadas, prueba de ello, el aprendizaje continuo en el plano profesional con una amplia formación complementaria.
+
+Disfruto del trabajo en equipo y de la colaboración, que considero esenciales en mi profesión para sacar proyectos adelante.

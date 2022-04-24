@@ -6,6 +6,10 @@ menu:
     weight: 2
 ---
 
-* Asesora y Colaboradora _(Asociación Agile Spain)_
-* Aesora Comunicativa _(Centro Cultural España Córdoba)_
-* Producción Radiofónica y Gestora de Redes Sociales _(Radio Eterogenia - Centro Cultural España Córdoba)_
+* Comunicación Institucional y Corporativa.
+* Producción Televisiva, Radiofónica y de Eventos.
+* Organización de Eventos.
+* Gestión de RRSS.
+* Creación y Redacción de Contenidos.
+* Gestión de Proyectos.
+* Eventos Culturales.
